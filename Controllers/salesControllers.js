@@ -1,4 +1,4 @@
-import SalesNote from '../Models/salesNote.js';
+import SalesNote from '../Models/SalesNote.js';
 
 
 // Create a new note
